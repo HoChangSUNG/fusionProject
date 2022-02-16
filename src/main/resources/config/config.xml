@@ -13,7 +13,7 @@
                 <property name="driver" value="com.mysql.cj.jdbc.Driver"/>
                 <property name="url" value="jdbc:mysql://localhost/enrolment?characterEncoding=utf8&amp;serverTimezone=UTC&amp;useSSL=false&amp;allowPublicKeyRetrieval=true"/>
                 <property name="username" value="root"/>
-                <property name="password" value="4702"/>
+                <property name="password" value="47024702"/>
             </dataSource>
         </environment>
         <!--  여러 데이터베이스 사용 가능-->
